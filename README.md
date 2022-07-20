@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 
 <img src='walkthrough' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [gifine](https://github.com/leafo/gifine).
 
 ## Notes
 
