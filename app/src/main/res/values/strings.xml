@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="adam_intro">Hello World! My name is Adam, I like skateboarding and use arch linux btw!</string>
+    <string name="button_text">Tap for Message</string>
+</resources>
